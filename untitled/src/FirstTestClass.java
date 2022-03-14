@@ -1,6 +1,7 @@
 public class FirstTestClass {
 
     public static void main(String[] args) {
-        System.out.println("Hello Me");
+        String name = "Emma";
+        System.out.println("Hello " + name);
     }
 }
